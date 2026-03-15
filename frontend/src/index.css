@@ -1,0 +1,106 @@
+@import "tailwindcss";
+
+:root {
+  --bg-primary:    #0B0F0E;
+  --bg-secondary:  #111A16;
+  --bg-tertiary:   #182420;
+  --bg-elevated:   #1D302A;
+  --accent:        #00D67E;
+  --accent-bright: #00FF94;
+  --accent-dim:    #0A3D2A;
+  --text-primary:  #E8EDE9;
+  --text-secondary:#7C9A8A;
+  --text-tertiary: #4A6B5D;
+  --border:        #1E3A2E;
+  --danger:        #FF4D4F;
+  --warning:       #FFB020;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  overflow: hidden;
+  height: 100vh;
+}
+
+#root {
+  height: 100vh;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--bg-elevated);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-tertiary);
+}
+
+/* Pulse animation for active mic */
+@keyframes pulse-ring {
+  0% {
+    transform: scale(1);
+    opacity: 0.6;
+  }
+  100% {
+    transform: scale(1.8);
+    opacity: 0;
+  }
+}
+
+.pulse-ring {
+  animation: pulse-ring 1.5s ease-out infinite;
+}
+
+/* Glow animation for accent elements */
+@keyframes glow {
+  0%, 100% {
+    box-shadow: 0 0 8px rgba(0, 214, 126, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(0, 214, 126, 0.6);
+  }
+}
+
+.glow-border {
+  animation: glow 2s ease-in-out infinite;
+}
+
+/* Glass panel effect */
+.glass-panel {
+  background: rgba(17, 26, 22, 0.8);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--border);
+}
+
+/* Typing cursor blink */
+@keyframes blink-cursor {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.typing-cursor::after {
+  content: '';
+  display: inline-block;
+  width: 2px;
+  height: 1em;
+  background: var(--accent);
+  margin-left: 2px;
+  vertical-align: text-bottom;
+  animation: blink-cursor 0.8s step-end infinite;
+}

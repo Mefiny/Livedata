@@ -1,0 +1,227 @@
+date,amount,category,merchant,payment_method
+2025-01-02,4.75,Food,Starbucks,Mobile Pay
+2025-01-03,52.30,Shopping,Target,Credit Card
+2025-01-05,12.99,Entertainment,Netflix,Credit Card
+2025-01-05,35.40,Food,Whole Foods,Debit Card
+2025-01-07,9.50,Transport,Uber,Mobile Pay
+2025-01-08,150.00,Bills,Electric Company,Debit Card
+2025-01-10,28.90,Food,Chipotle,Credit Card
+2025-01-11,45.00,Health,CVS Pharmacy,Credit Card
+2025-01-13,6.25,Food,Dunkin Donuts,Cash
+2025-01-15,89.99,Bills,Internet Provider,Debit Card
+2025-01-16,14.50,Food,Subway,Debit Card
+2025-01-18,22.00,Entertainment,AMC Theaters,Credit Card
+2025-01-20,75.00,Bills,Phone Bill,Debit Card
+2025-01-22,8.40,Food,McDonalds,Cash
+2025-01-24,120.00,Education,Udemy,Credit Card
+2025-01-25,42.15,Food,Trader Joes,Debit Card
+2025-01-28,15.00,Transport,Lyft,Mobile Pay
+2025-01-30,200.00,Bills,Rent Insurance,Debit Card
+2025-02-01,5.50,Food,Starbucks,Mobile Pay
+2025-02-02,67.80,Shopping,Amazon,Credit Card
+2025-02-03,11.99,Entertainment,Spotify,Credit Card
+2025-02-05,18.75,Food,Panera Bread,Debit Card
+2025-02-06,32.00,Transport,Gas Station,Debit Card
+2025-02-08,145.00,Bills,Electric Company,Debit Card
+2025-02-09,25.00,Health,GNC,Credit Card
+2025-02-10,7.80,Food,Taco Bell,Cash
+2025-02-12,55.00,Shopping,Nike Store,Credit Card
+2025-02-14,85.00,Food,Olive Garden,Credit Card
+2025-02-15,89.99,Bills,Internet Provider,Debit Card
+2025-02-17,19.99,Entertainment,Hulu,Credit Card
+2025-02-18,38.50,Food,Whole Foods,Debit Card
+2025-02-20,75.00,Bills,Phone Bill,Debit Card
+2025-02-22,12.00,Transport,Uber,Mobile Pay
+2025-02-24,30.00,Education,Skillshare,Credit Card
+2025-02-26,6.75,Food,Starbucks,Mobile Pay
+2025-02-28,48.20,Shopping,Target,Debit Card
+2025-03-01,5.25,Food,Dunkin Donuts,Cash
+2025-03-02,890.00,Shopping,Best Buy,Credit Card
+2025-03-03,150.00,Bills,Electric Company,Debit Card
+2025-03-05,42.00,Food,Cheesecake Factory,Credit Card
+2025-03-06,1250.00,Travel,Delta Airlines,Credit Card
+2025-03-07,15.50,Food,Chick-fil-A,Debit Card
+2025-03-09,22.00,Entertainment,Bowling Alley,Cash
+2025-03-10,89.99,Bills,Internet Provider,Debit Card
+2025-03-12,9.75,Food,Starbucks,Mobile Pay
+2025-03-14,75.00,Bills,Phone Bill,Debit Card
+2025-03-15,345.00,Shopping,Apple Store,Credit Card
+2025-03-17,28.00,Food,Five Guys,Debit Card
+2025-03-19,65.00,Health,Walgreens,Credit Card
+2025-03-20,8.50,Transport,Uber,Mobile Pay
+2025-03-22,17.99,Entertainment,Amazon Prime Video,Credit Card
+2025-03-24,55.30,Food,Costco,Debit Card
+2025-03-26,200.00,Bills,Rent Insurance,Debit Card
+2025-03-28,11.25,Food,Starbucks,Mobile Pay
+2025-03-30,35.00,Education,Coursera,Credit Card
+2025-04-01,6.50,Food,Starbucks,Mobile Pay
+2025-04-02,23.40,Food,Chipotle,Credit Card
+2025-04-04,12.99,Entertainment,Netflix,Credit Card
+2025-04-05,38.90,Shopping,Amazon,Credit Card
+2025-04-07,140.00,Bills,Electric Company,Debit Card
+2025-04-08,7.25,Food,Dunkin Donuts,Cash
+2025-04-10,18.00,Transport,Lyft,Mobile Pay
+2025-04-12,89.99,Bills,Internet Provider,Debit Card
+2025-04-13,52.00,Food,Whole Foods,Debit Card
+2025-04-15,75.00,Bills,Phone Bill,Debit Card
+2025-04-16,35.00,Health,CVS Pharmacy,Credit Card
+2025-04-18,9.99,Entertainment,Spotify,Credit Card
+2025-04-20,15.80,Food,Panda Express,Debit Card
+2025-04-22,28.50,Shopping,Old Navy,Credit Card
+2025-04-24,200.00,Bills,Rent Insurance,Debit Card
+2025-04-25,6.00,Food,McDonalds,Cash
+2025-04-27,45.00,Education,Udemy,Credit Card
+2025-04-29,11.50,Transport,Uber,Mobile Pay
+2025-05-01,5.75,Food,Starbucks,Mobile Pay
+2025-05-03,72.00,Shopping,Amazon,Credit Card
+2025-05-04,16.50,Food,Subway,Debit Card
+2025-05-06,155.00,Bills,Electric Company,Debit Card
+2025-05-08,21.00,Entertainment,AMC Theaters,Credit Card
+2025-05-09,8.90,Food,Taco Bell,Cash
+2025-05-11,89.99,Bills,Internet Provider,Debit Card
+2025-05-12,42.60,Food,Trader Joes,Debit Card
+2025-05-14,75.00,Bills,Phone Bill,Debit Card
+2025-05-15,30.00,Transport,Gas Station,Debit Card
+2025-05-17,62.00,Health,GNC,Credit Card
+2025-05-19,19.99,Entertainment,Hulu,Credit Card
+2025-05-20,14.25,Food,Chick-fil-A,Debit Card
+2025-05-22,200.00,Bills,Rent Insurance,Debit Card
+2025-05-24,85.00,Shopping,Nordstrom,Credit Card
+2025-05-26,7.50,Food,Starbucks,Mobile Pay
+2025-05-28,25.00,Education,LinkedIn Learning,Credit Card
+2025-05-30,10.00,Transport,Uber,Mobile Pay
+2025-06-01,5.50,Food,Starbucks,Mobile Pay
+2025-06-02,34.80,Food,Whole Foods,Debit Card
+2025-06-04,12.99,Entertainment,Netflix,Credit Card
+2025-06-05,48.00,Shopping,Target,Credit Card
+2025-06-07,160.00,Bills,Electric Company,Debit Card
+2025-06-09,22.50,Food,Panera Bread,Debit Card
+2025-06-10,89.99,Bills,Internet Provider,Debit Card
+2025-06-12,8.00,Food,McDonalds,Cash
+2025-06-14,75.00,Bills,Phone Bill,Debit Card
+2025-06-15,15.00,Transport,Lyft,Mobile Pay
+2025-06-17,40.00,Health,CVS Pharmacy,Credit Card
+2025-06-19,11.99,Entertainment,Spotify,Credit Card
+2025-06-20,27.30,Food,Chipotle,Credit Card
+2025-06-22,200.00,Bills,Rent Insurance,Debit Card
+2025-06-24,95.00,Shopping,Amazon,Credit Card
+2025-06-26,6.25,Food,Dunkin Donuts,Cash
+2025-06-28,55.00,Education,Udemy,Credit Card
+2025-06-30,18.00,Transport,Uber,Mobile Pay
+2025-07-01,5.25,Food,Starbucks,Mobile Pay
+2025-07-03,780.00,Travel,Marriott Hotel,Credit Card
+2025-07-04,65.00,Food,Steakhouse Grill,Credit Card
+2025-07-05,420.00,Travel,Hertz Car Rental,Credit Card
+2025-07-06,32.50,Food,Diner by the Beach,Cash
+2025-07-07,145.00,Bills,Electric Company,Debit Card
+2025-07-09,89.99,Bills,Internet Provider,Debit Card
+2025-07-10,18.90,Food,Five Guys,Debit Card
+2025-07-12,75.00,Bills,Phone Bill,Debit Card
+2025-07-14,28.00,Entertainment,Mini Golf,Cash
+2025-07-16,9.50,Food,Starbucks,Mobile Pay
+2025-07-18,52.00,Shopping,Amazon,Credit Card
+2025-07-20,200.00,Bills,Rent Insurance,Debit Card
+2025-07-22,15.75,Food,Subway,Debit Card
+2025-07-24,35.00,Health,Walgreens,Credit Card
+2025-07-26,22.00,Transport,Uber,Mobile Pay
+2025-07-28,19.99,Entertainment,Hulu,Credit Card
+2025-07-30,41.20,Food,Trader Joes,Debit Card
+2025-08-01,6.00,Food,Starbucks,Mobile Pay
+2025-08-02,29.99,Entertainment,Amazon Prime Video,Credit Card
+2025-08-04,45.60,Food,Whole Foods,Debit Card
+2025-08-06,135.00,Bills,Electric Company,Debit Card
+2025-08-07,12.50,Food,Chick-fil-A,Debit Card
+2025-08-09,89.99,Bills,Internet Provider,Debit Card
+2025-08-11,8.75,Food,Taco Bell,Cash
+2025-08-13,75.00,Bills,Phone Bill,Debit Card
+2025-08-14,58.00,Shopping,Target,Credit Card
+2025-08-16,20.00,Transport,Lyft,Mobile Pay
+2025-08-18,200.00,Bills,Rent Insurance,Debit Card
+2025-08-20,7.50,Food,Dunkin Donuts,Cash
+2025-08-22,42.00,Health,CVS Pharmacy,Credit Card
+2025-08-24,25.00,Education,Skillshare,Credit Card
+2025-08-26,16.30,Food,Panera Bread,Debit Card
+2025-08-28,11.99,Entertainment,Spotify,Credit Card
+2025-08-30,33.00,Shopping,Amazon,Credit Card
+2025-09-01,5.50,Food,Starbucks,Mobile Pay
+2025-09-03,24.80,Food,Chipotle,Credit Card
+2025-09-04,12.99,Entertainment,Netflix,Credit Card
+2025-09-06,140.00,Bills,Electric Company,Debit Card
+2025-09-08,68.00,Shopping,Amazon,Credit Card
+2025-09-09,89.99,Bills,Internet Provider,Debit Card
+2025-09-11,9.25,Food,McDonalds,Cash
+2025-09-13,75.00,Bills,Phone Bill,Debit Card
+2025-09-15,30.00,Transport,Gas Station,Debit Card
+2025-09-16,48.50,Food,Whole Foods,Debit Card
+2025-09-18,200.00,Bills,Rent Insurance,Debit Card
+2025-09-20,55.00,Health,GNC,Credit Card
+2025-09-22,19.99,Entertainment,Hulu,Credit Card
+2025-09-24,14.00,Food,Subway,Debit Card
+2025-09-26,85.00,Education,Coursera,Credit Card
+2025-09-28,7.75,Food,Starbucks,Mobile Pay
+2025-09-30,12.00,Transport,Uber,Mobile Pay
+2025-10-01,6.25,Food,Starbucks,Mobile Pay
+2025-10-03,38.00,Shopping,Amazon,Credit Card
+2025-10-04,22.50,Food,Panera Bread,Debit Card
+2025-10-06,145.00,Bills,Electric Company,Debit Card
+2025-10-08,12.99,Entertainment,Netflix,Credit Card
+2025-10-10,89.99,Bills,Internet Provider,Debit Card
+2025-10-11,7.50,Food,Dunkin Donuts,Cash
+2025-10-13,75.00,Bills,Phone Bill,Debit Card
+2025-10-15,35.00,Health,CVS Pharmacy,Credit Card
+2025-10-16,18.00,Transport,Lyft,Mobile Pay
+2025-10-18,200.00,Bills,Rent Insurance,Debit Card
+2025-10-20,52.40,Food,Trader Joes,Debit Card
+2025-10-22,11.99,Entertainment,Spotify,Credit Card
+2025-10-24,15.50,Food,Chick-fil-A,Debit Card
+2025-10-26,42.00,Shopping,Target,Credit Card
+2025-10-28,8.00,Food,Taco Bell,Cash
+2025-10-30,65.00,Education,Udemy,Credit Card
+2025-11-01,5.75,Food,Starbucks,Mobile Pay
+2025-11-02,48.90,Shopping,Amazon,Credit Card
+2025-11-04,135.00,Bills,Electric Company,Debit Card
+2025-11-05,26.00,Food,Chipotle,Credit Card
+2025-11-07,89.99,Bills,Internet Provider,Debit Card
+2025-11-08,19.99,Entertainment,Hulu,Credit Card
+2025-11-10,75.00,Bills,Phone Bill,Debit Card
+2025-11-12,9.50,Food,McDonalds,Cash
+2025-11-14,40.00,Health,Walgreens,Credit Card
+2025-11-15,200.00,Bills,Rent Insurance,Debit Card
+2025-11-17,14.00,Transport,Uber,Mobile Pay
+2025-11-19,32.70,Food,Whole Foods,Debit Card
+2025-11-21,22.00,Entertainment,AMC Theaters,Credit Card
+2025-11-24,55.00,Shopping,Old Navy,Credit Card
+2025-11-26,7.00,Food,Dunkin Donuts,Cash
+2025-11-28,185.00,Shopping,Black Friday - Best Buy,Credit Card
+2025-11-29,120.00,Shopping,Black Friday - Amazon,Credit Card
+2025-11-30,95.00,Shopping,Black Friday - Nike Store,Credit Card
+2025-12-01,6.50,Food,Starbucks,Mobile Pay
+2025-12-02,245.00,Shopping,Amazon,Credit Card
+2025-12-03,12.99,Entertainment,Netflix,Credit Card
+2025-12-04,165.00,Bills,Electric Company,Debit Card
+2025-12-05,89.00,Shopping,Nordstrom,Credit Card
+2025-12-06,55.00,Food,Whole Foods,Debit Card
+2025-12-07,125.00,Shopping,Apple Store,Credit Card
+2025-12-08,89.99,Bills,Internet Provider,Debit Card
+2025-12-09,38.50,Food,Cheesecake Factory,Credit Card
+2025-12-10,75.00,Bills,Phone Bill,Debit Card
+2025-12-11,175.00,Shopping,Macys,Credit Card
+2025-12-12,28.00,Food,Five Guys,Debit Card
+2025-12-13,15.00,Transport,Uber,Mobile Pay
+2025-12-14,200.00,Bills,Rent Insurance,Debit Card
+2025-12-15,320.00,Shopping,Amazon,Credit Card
+2025-12-16,45.00,Health,CVS Pharmacy,Credit Card
+2025-12-17,8.75,Food,Starbucks,Mobile Pay
+2025-12-18,150.00,Shopping,Target,Credit Card
+2025-12-19,11.99,Entertainment,Spotify,Credit Card
+2025-12-20,65.00,Food,Restaurant - Holiday Dinner,Credit Card
+2025-12-21,95.00,Shopping,Barnes and Noble,Credit Card
+2025-12-22,280.00,Shopping,Best Buy,Credit Card
+2025-12-23,42.00,Food,Trader Joes,Debit Card
+2025-12-24,110.00,Shopping,Amazon,Credit Card
+2025-12-25,85.00,Food,Holiday Feast Groceries,Debit Card
+2025-12-27,35.00,Entertainment,Bowling Alley,Cash
+2025-12-28,22.00,Transport,Lyft,Mobile Pay
+2025-12-29,58.00,Shopping,Amazon,Credit Card
+2025-12-30,19.99,Entertainment,Hulu,Credit Card
+2025-12-31,75.00,Food,New Years Eve Restaurant,Credit Card
