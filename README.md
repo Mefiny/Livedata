@@ -198,7 +198,7 @@ interface IAnalysisPlugin {
 2. 在 `plugins/index.ts` 中注册
 3. 在 `NodePanel.tsx` 中添加节点模板
 
-## 🤝 贡献指南
+##  贡献指南
 
 欢迎贡献代码、报告问题或提出建议！
 
@@ -208,16 +208,8 @@ interface IAnalysisPlugin {
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 开启 Pull Request
 
-## 📝 许可证
+##  许可证
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
 
-## 🙏 致谢
 
-- [React Flow](https://reactflow.dev/) - 强大的节点编辑器库
-- [Zustand](https://github.com/pmndrs/zustand) - 轻量级状态管理
-- [Tailwind CSS](https://tailwindcss.com/) - 实用优先的CSS框架
-
----
-
-**Made with ❤️ by LiveData OS Team**
